@@ -1,0 +1,17 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "author": "Oliver Johnson",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "jest": "^29.4.2",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "fizzbuzz": "ts-node fizzbuzz.ts"
+  }
+}
